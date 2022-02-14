@@ -6,7 +6,7 @@ I used visual studio 2017 to make it so that should be good enough to compile it
 A = A
 S = B
 Enter = Start
-R-Shift = Select
+Space = Select
 
 This Program Can Render DirectX/OpenGL depending on which your system supports. (Software renderer is included but not recomended because it is TOO SLOW)
 
@@ -14,6 +14,7 @@ This Program Can Render DirectX/OpenGL depending on which your system supports. 
 - Tetris
 - Castlevania
 - Super Mario Bros.
+- The Legend of Zelda
 
 ## Mappers
 A certain Few Mappers have been used in this program:
