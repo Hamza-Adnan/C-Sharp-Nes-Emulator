@@ -13,11 +13,17 @@ the NES cartridge can carry more than the 32kb of code and 8kb of graphics, it j
 microcontroller located on the cartridge connecting both the ROM and RAM chips called the **MAPPER** 
 
 ## Specifications
+
 Controls:
-A is A
-S is B
-Enter is Start
-Space is Select
+- A --> A
+- S --> B
+- Enter --> Start
+- Space --> Select
+- Right-Click in the window to access extra functions like
+- Pause
+- ScreenShot
+- Renderer Change
+- And Filtering
 
 **This Program Can Render DirectX/OpenGL depending on which your system supports. (Software renderer is included but not recomended because it is TOO SLOW)**
 
