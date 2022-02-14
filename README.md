@@ -10,6 +10,12 @@ R-Shift = Select
 
 This Program Can Render DirectX/OpenGL depending on which your system supports. (Software renderer is included but not recomended because it is TOO SLOW)
 
+## TESTED TITLES
+- Tetris
+- Castlevania
+- Super Mario Bros.
+
+## Mappers
 A certain Few Mappers have been used in this program:
 - [NROM](http://bootgod.dyndns.org:7777/search.php?ines=0)
 - [MMC1](http://bootgod.dyndns.org:7777/search.php?ines=1)
