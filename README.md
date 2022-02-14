@@ -1,6 +1,8 @@
 # C-Sharp-Nes-Emulator
 A NES emulator I built in my spare time. Used some external items for DirectX rendering but that's about it
 I used visual studio 2017 to make it so that should be good enough to compile it on windows. 
+**YOU MUST UNZIP THE 7z PACKAGES FILE TO BE ABLE TO COMPILE THIS CODE!!! IT WAS TOO BIG TO UPLOAD AS A FOLDER**
+
 
 ## A little background 
 The NES or Nintendo Entertainment System is Nintendo's response to the videogame crash of the 80s. Though it was not very powerful boasting a _"Powerful"_
